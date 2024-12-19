@@ -4,13 +4,13 @@
 # Hello! I'm Adeel Ahmed Hashmi
 
 ## 👋 Introduction
-I'm a beginner in web development based in Azad Jammu and Kashmir, Pakistan. I am passionate about creating web applications and games.
+I'm a frontend web development based in Azad Jammu and Kashmir, Pakistan. I am passionate about creating web applications and games.
 
 ## 🛠️ Skills
 I have learned the fundamentals of:
 - HTML
 - CSS
-- Core JavaScript
+- JavaScript
 
 ## 🚀 Current Focus
 I am actively working to enhance my frontend web development skills while striving to strengthen my core technologies. My ultimate goal is to become a full-stack web developer.
