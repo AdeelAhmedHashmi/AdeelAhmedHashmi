@@ -12,11 +12,10 @@ I have learned these technologies:
 - CSS
 - Tailwind
 - Nodejs
-- Vuejs
-- firebase
+- Reactjs
 
 ## 🚀 Current Focus
-I am actively working to enhance my frontend web development skills while striving to strengthen my core technologies. My ultimate goal is to become a full-stack web developer.
+I am actively working to enhance my frontend web development skills while striving to strengthen Reactjs. My ultimate goal is to become a full-stack web developer.
 
 ## 📂 Projects
 This README serves as a showcase for all my projects. You can explore my best project, [Quran Heaven](https://quranheaven.netlify.app).
