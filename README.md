@@ -1,30 +1,51 @@
-
 ---
 
-# Hello! I'm Adeel Ahmed Hashmi
+# Hello! I'm Adeel Ahmed Hashmi (a Web Developer)
 
 ## 👋 Introduction
-I'm a frontend web developer based in Azad Jammu and Kashmir, Pakistan. I am passionate about creating web applications and games.
+I'm a full stack web developer based in Azad Jammu and Kashmir, Pakistan. I am passionate about creating web applications and games.
 
 ## 🛠️ Skills
 I have learned these technologies:
+
+### Frontend Technologies
 - HTML
 - CSS
+- Javascript
+- Web Apis
 - Tailwind
-- Nodejs
 - Reactjs
 
+### Backend Technologies
+- Nodejs
+- Express
+- Ejs
+- WebSockets
+- Socket.io
+- WebRTC
+
+### DataBases
+- MongoDB (atlas/local)
+- IndexedDB (frontend browser database)
+
+### Authentication
+- JWT Authentication
+- Session ID Based Authentication
+  
+### Version Controls
+- Git
+- Github
+
 ## 🚀 Current Focus
-I am actively working to enhance my frontend web development skills while striving to strengthen Reactjs. My ultimate goal is to become a full-stack web developer.
+I am actively working to enhance my backend web development skills while striving to strengthen Applications Security. My ultimate goal is to become a best Developer.
 
 ## 📂 Projects
-This README serves as a showcase for all my projects. You can explore my best project, [Quran Heaven](https://quranheaven.netlify.app).
+This README serves as a showcase of my skills. You can explore my best project, [Quran Heaven](https://quranheaven.netlify.app) maded in 2023.
 
-## 🤝 Collaboration
+## 🤝 Collaboration ( developers )
 I welcome feedback on my projects. If you check my code and notice any mistakes or have tips for improvement, I would be very grateful for your insights.
 
 ## 📧 Contact
-Feel free to reach out to me via email: [adeelahmedhashmi.aah@gmail.com](mailto:adeelahmedhashmi.aah@gmail.com).
+Here is my email for Contact: [adeelahmedhashmi.aah@gmail.com](mailto:adeelahmedhashmi.aah@gmail.com).
 
 ---
-
