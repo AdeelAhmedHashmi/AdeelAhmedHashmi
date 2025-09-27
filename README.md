@@ -8,6 +8,11 @@ I'm a full stack web developer based in Azad Jammu and Kashmir, Pakistan. I am p
 ## 🛠️ Skills
 I have learned these technologies:
 
+### Programming Languages 
+- Javascript
+- Typescript
+- Python
+
 ### Frontend Technologies
 - HTML
 - CSS
