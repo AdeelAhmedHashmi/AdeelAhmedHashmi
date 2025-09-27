@@ -13,8 +13,15 @@ I have learned these technologies:
 - CSS
 - Javascript
 - Web Apis
-- Tailwind
 - Reactjs
+
+### React State Management 
+- Redux Toolkit
+
+### UI Technologies 
+- Tailwindcss
+- Material Ui
+- Daisy Ui
 
 ### Backend Technologies
 - Nodejs
