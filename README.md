@@ -22,11 +22,13 @@ I have learned these technologies:
 
 ### React State Management 
 - Redux Toolkit
-
+- Context Api
+  
 ### UI Technologies 
 - Tailwindcss
 - Material Ui
 - Daisy Ui
+- ShadeCN
 
 ### Backend Technologies
 - Nodejs
@@ -52,7 +54,7 @@ I have learned these technologies:
 I am actively working to enhance my backend web development skills while striving to strengthen Applications Security. My ultimate goal is to become a best Developer.
 
 ## 📂 Projects
-This README serves as a showcase of my skills. You can explore my best project, [Quran Heaven](https://quranheaven.netlify.app) maded in 2023.
+This README serves as a showcase of my skills. You can explore my best project, [Checkers](https://checkersdotcom.netlify.app/) maded in 2023.
 
 ## 🤝 Collaboration ( developers )
 I welcome feedback on my projects. If you check my code and notice any mistakes or have tips for improvement, I would be very grateful for your insights.
