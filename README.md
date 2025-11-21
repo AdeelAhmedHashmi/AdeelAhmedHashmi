@@ -4,7 +4,7 @@
 
 ---
 
-## Professional Summary
+## About Me
 
 I am a full stack web developer based in Azad Jammu and Kashmir, Pakistan. My work focuses on building modern, scalable, and secure web applications. I specialize in JavaScript, TypeScript, backend engineering, frontend architectures, and real-time communication technologies.
 My long-term objective is to grow into a highly competent, security-focused software engineer with strong technical judgment and production-quality development standards.
