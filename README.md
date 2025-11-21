@@ -37,7 +37,6 @@ My long-term objective is to grow into a highly competent, security-focused soft
 * Tailwind CSS
 * Material UI
 * Daisy UI
-* ShadCN UI
 
 ### Backend Development
 
@@ -50,8 +49,8 @@ My long-term objective is to grow into a highly competent, security-focused soft
 
 ### Databases
 
-* MongoDB (Atlas / Local)
-* IndexedDB
+* SQL: MongoDB (Atlas / Local)
+* NOSQL: SQLite 
 
 ### Authentication & Security
 
