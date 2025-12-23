@@ -13,49 +13,25 @@ My long-term objective is to grow into a highly competent, security-focused soft
 
 ## Core Competencies
 
-### Programming Languages
+### Programming Language
 
-* JavaScript
-* TypeScript
-* Python
+* Typescript
 
 ### Frontend Development
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Web APIs
-* React.js
-
-### State Management
-
+* Reactjs
 * Redux Toolkit
-* Context API
-
-### UI & Component Libraries
-
-* Tailwind CSS
-* Material UI
-* Daisy UI
 
 ### Backend Development
 
-* Node.js
-* Express.js
-* EJS
-* WebSockets
-* Socket.io
-* WebRTC
+* Express
+* Nestjs
+* Backend Security & Authentication Strategies
 
 ### Databases
 
 * SQL: MongoDB (Atlas / Local)
 * NOSQL: SQLite 
-
-### Authentication & Security
-
-* JWT-based Authentication
-* Session-based Authentication
 
 ### Version Control
 
@@ -68,12 +44,11 @@ My long-term objective is to grow into a highly competent, security-focused soft
 
 | Category        | Technologies                                |
 | --------------- | ------------------------------------------- |
-| Frontend        | HTML, CSS, JavaScript, React, Web APIs      |
+| Frontend        | Reactjs, ReduxToolkit for state management  |
 | Styling         | Tailwind CSS, Material UI, Daisy UI, ShadCN |
-| Backend         | Node.js, Express, Socket.io, WebRTC, EJS    |
-| Databases       | MongoDB, IndexedDB                          |
-| Languages       | JavaScript, TypeScript, Python              |
-| Auth & Security | JWT, Sessions                               |
+| Backend         | Expressjs, Nestjs for interprise backends   |
+| Databases       | MongoDB, Postgress, Sqlite                  |
+| Languages       | Typescript                                  |
 | Tools           | Git, GitHub                                 |
 
 ---
