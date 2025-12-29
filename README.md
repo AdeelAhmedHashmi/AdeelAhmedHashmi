@@ -1,6 +1,4 @@
-# ADEEL AHMED HASHMI
-
-### Full Stack Web Developer
+<img src="https://poetic-valkyrie-802eeb.netlify.app/img.svg" alt="Animated Hero Header" />
 
 ---
 
@@ -30,8 +28,8 @@ My long-term objective is to grow into a highly competent, security-focused soft
 
 ### Databases
 
-* SQL: MongoDB (Atlas / Local)
-* NOSQL: SQLite 
+* MongoDB (Atlas / Local)
+* SQLite / Postgress 
 
 ### Version Control
 
@@ -46,7 +44,7 @@ My long-term objective is to grow into a highly competent, security-focused soft
 | --------------- | ------------------------------------------- |
 | Frontend        | Reactjs, ReduxToolkit for state management  |
 | Styling         | Tailwind CSS, Material UI, Daisy UI, ShadCN |
-| Backend         | Expressjs, Nestjs for interprise backends   |
+| Backend         | Expressjs, Nestjs                           |
 | Databases       | MongoDB, Postgress, Sqlite                  |
 | Languages       | Typescript                                  |
 | Tools           | Git, GitHub                                 |
@@ -67,6 +65,6 @@ I value constructive feedback and technical discussions. If you review my code o
 
 ## Contact
 
-For professional inquiries or collaboration opportunities, please reach out at:
+For professional inquiries or collaboration opportunities, reach out at:
 **[adeelahmedhashmi.aah@gmail.com](mailto:adeelahmedhashmi.aah@gmail.com)**
 
