@@ -1,4 +1,5 @@
-<img src="https://poetic-valkyrie-802eeb.netlify.app/img.svg" alt="Animated Hero Header" />
+# ADEEL AHMED HASHMI
+#### Backend Developer | Building Secure & Scalable APIs | Real-time Systems
 
 ---
 
