@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am a full stack web developer based in Azad Jammu and Kashmir, Pakistan. My work focuses on building modern, scalable, and secure web applications. I specialize in JavaScript, TypeScript, backend engineering, frontend architectures, and real-time communication technologies.
+I am a Backend developer based in Azad Jammu and Kashmir, Pakistan. My work focuses on building modern, scalable, and secure web applications. I specialize in JavaScript, TypeScript, backend engineering, little bit of frontend architectures, and real-time communication technologies.
 My long-term objective is to grow into a highly competent, security-focused software engineer with strong technical judgment and production-quality development standards.
 
 ---
@@ -29,7 +29,7 @@ My long-term objective is to grow into a highly competent, security-focused soft
 
 ### Databases
 
-* MongoDB (Atlas / Local)
+* MongoDB
 * SQLite / Postgress 
 
 ### Version Control
@@ -44,7 +44,7 @@ My long-term objective is to grow into a highly competent, security-focused soft
 | Category        | Technologies                                |
 | --------------- | ------------------------------------------- |
 | Frontend        | Reactjs, ReduxToolkit for state management  |
-| Styling         | Tailwind CSS, Material UI, Daisy UI, ShadCN |
+| Styling         | Tailwind CSS                                |
 | Backend         | Expressjs, Nestjs                           |
 | Databases       | MongoDB, Postgress, Sqlite                  |
 | Languages       | Typescript                                  |
@@ -54,7 +54,7 @@ My long-term objective is to grow into a highly competent, security-focused soft
 
 ## Career Objective
 
-I am actively working to advance my backend engineering capabilities and deepen my understanding of application security. My career goal is to become a well-rounded full stack developer who can design, build, and maintain secure, high-performing, and production-ready applications.
+I am actively working to advance my backend engineering capabilities and deepen my understanding of application security. My career goal is to become a well-rounded backend developer who can design, build, and maintain secure, high-performing, and production-ready systems.
 
 ---
 
