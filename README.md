@@ -26,11 +26,14 @@ My long-term objective is to grow into a highly competent, security-focused soft
 * Express
 * Nestjs
 * Backend Security & Authentication Strategies
+* Redis (for caching)
+* BullMq (for message queue)
 
 ### Databases
 
 * MongoDB
-* SQLite / Postgress 
+* SQLite / Postgress
+* Redis
 
 ### Version Control
 
