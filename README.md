@@ -21,7 +21,6 @@
 
 I don't just write code; I design data flow. Currently operating out of **Azad Jammu and Kashmir**, I focus on the intersection of security, scalability, and real-time performance. My goal is to move beyond "making it work" to "making it unbreakable."
 
-```typescript
 // Current Context
 const Adeel: SoftwareEngineer = {
     architecture: ["Event-Driven", "Microservices", "Monolithic"],
