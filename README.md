@@ -58,6 +58,6 @@ I am currently optimizing for technical depth. If you have a complex backend pro
 <div align="center">
 <br />
 <a href="mailto:adeelahmedhashmi.aah@gmail.com">
-<img src="https://img.shields.io/badge/Let%27s_Build_Something_Secure-Click_Here-black%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" />
+<img src="https://img.shields.io/badge/Let's_Build_Something_Secure-Click_Here-black?style=for-the-badge&logo=gmail" />
 </a>
 </div>
