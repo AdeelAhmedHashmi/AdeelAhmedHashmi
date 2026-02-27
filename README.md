@@ -17,20 +17,11 @@
 
 </div>
 
-## The Runtime Profile
+<div align="center">
+  
+## About Me
 
 I don't just write code; I design data flow. Currently operating out of **Pakistan**, I focus on the intersection of security, scalability, and real-time performance. My goal is to move beyond "making it work" to "making it unbreakable."
-
-```typescript
-// Current Context
-const Adeel: SoftwareEngineer = {
-    architecture: ["Event-Driven", "Microservices", "Monolithic"],
-    core: "TypeScript",
-    mission: "Building production-grade, secure APIs",
-    currentFocus: ["Backend Security", "System Design"],
-    askMeAbout: ["Real-time Sockets", "Queue Management", "Data Modeling"]
-};
-```
 
 *The JavaScript Ecosystem & Arsenal*
 I view the JS ecosystem as a complete toolkit for full-stack engineering. I select tools based on requirements, not hype.
@@ -42,19 +33,26 @@ I view the JS ecosystem as a complete toolkit for full-stack engineering. I sele
 | Performance & Caching | Redis, BullMQ, RabbitMQ |
 | Client State & UI | Reactjs, TailwindCSS, Redux |
 
-</div>
-
 *Engineering Philosophy*
-  
-  * Security First: Auth isn't an afterthought; it's the foundation.
-  * Type Safety: I rely on TypeScript to catch errors at compile time, not runtime.
-  * Scalability: Utilizing BullMQ and Redis to handle load and asynchronous processing efficiently.
+
+  <div>
+   Security First: Auth isn't an afterthought; it's the foundation.
+  </div>
+  <div>
+   Type Safety: I rely on TypeScript to catch errors at compile time, not runtime.
+  </div>
+  <div>
+   Scalability: Utilizing BullMQ and Redis to handle load and asynchronous processing efficiently.
+  </div>
+<br/>
 
 *Open for Collaboration*
 
 I am currently optimizing for technical depth. If you have a complex backend problem, a security vulnerability to patch, or a repository that needs a strict code review, let's talk.
  * What I bring: Clean architecture, strict typing, and performance optimization.
  * What I seek: High-impact projects and constructive code reviews.
+
+<div/>
 <div align="center">
 <br />
 <a href="mailto:adeelahmedhashmi.aah@gmail.com">
