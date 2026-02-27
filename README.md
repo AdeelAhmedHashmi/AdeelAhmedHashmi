@@ -49,13 +49,14 @@ I view the JS ecosystem as a complete toolkit for full-stack engineering. I sele
 *Open for Collaboration*
 
 I am currently optimizing for technical depth. If you have a complex backend problem, a security vulnerability to patch, or a repository that needs a strict code review, let's talk.
- * What I bring: Clean architecture, strict typing, and performance optimization.
- * What I seek: High-impact projects and constructive code reviews.
+ <div> What I bring: Clean architecture, strict typing, and performance optimization. </div>
+ <div> What I seek: High-impact projects and constructive code reviews. </div>
 
 <div/>
+  
 <div align="center">
-<br />
-<a href="mailto:adeelahmedhashmi.aah@gmail.com">
-<img src="https://img.shields.io/badge/Let's_Build_Something_Secure-Click_Here-black?style=for-the-badge&logo=gmail" />
-</a>
+  <br />
+  <a href="mailto:adeelahmedhashmi.aah@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Build_Something_Secure-Click_Here-black?style=for-the-badge&logo=gmail" />
+  </a>
 </div>
